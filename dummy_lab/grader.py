@@ -13,9 +13,9 @@ class LabGrader(Grader):
 
 	@Grader.addStep(name='step3')
 	def step3(self, workingDir, inputCommand):
-	    pass
+	    return True
 
 	@Grader.addStep(name='step4')
 	def step4(self, workingDir, inputCommand):
-	    pass
+	    return True
 
