@@ -1,0 +1,7 @@
+title: dummy course
+description: to test if grader behaves correctly on template course
+labs:
+- title: dummylab
+  description: dummy lab
+  directory: /dummy_lab
+  number_of_tasks: 4
